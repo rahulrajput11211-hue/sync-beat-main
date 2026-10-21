@@ -1,0 +1,6 @@
+{
+  "name": "syncbeat",
+  "version": "1.0.0",
+  "scripts": { "start": "node syncbeat.js" },
+  "engines": { "node": ">=18" }
+}
