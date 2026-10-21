@@ -1,0 +1,11 @@
+{
+  "name": "syncbeat-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node sync-test.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
